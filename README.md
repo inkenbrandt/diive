@@ -161,7 +161,7 @@ Single outlier tests create a flag where `0=OK` and `2=outlier`.
 
 `diive` is currently developed under Python 3.9.7, but newer (and many older) versions should also work.
 
-`diive` can be installed using conda with `conda intall -c conda-forge diive`
+`diive` can be installed using conda with `conda install -c conda-forge diive`
 
 One way to install and use `diive` with a specific Python version on a local machine:
 
